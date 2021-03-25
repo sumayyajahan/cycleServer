@@ -1,0 +1,16 @@
+
+[29-Mar-2018 23:42:40 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:19:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:19:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:20:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:20:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:29:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:30:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 15:34:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 16:39:58 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 17:44:07 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 18:06:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[31-Mar-2018 19:08:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?' in /home/cyclegea/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[15-Nov-2018 08:23:22 UTC] PHP Fatal error:  Cannot declare class Composer\Autoload\ClassLoader, because the name is already in use in /home/cyclegea/public_html/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 08:23:23 UTC] PHP Fatal error:  Cannot declare class Composer\Autoload\ClassLoader, because the name is already in use in /home/cyclegea/public_html/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 08:23:23 UTC] PHP Fatal error:  Cannot declare class Composer\Autoload\ClassLoader, because the name is already in use in /home/cyclegea/public_html/vendor/composer/ClassLoader.php on line 43
